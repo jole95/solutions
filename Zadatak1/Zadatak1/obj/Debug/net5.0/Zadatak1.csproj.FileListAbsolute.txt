@@ -1,0 +1,16 @@
+C:\Users\Josip\Desktop\Evolutio\Zadatak1\Zadatak1\bin\Debug\net5.0\Zadatak1.exe
+C:\Users\Josip\Desktop\Evolutio\Zadatak1\Zadatak1\bin\Debug\net5.0\Zadatak1.deps.json
+C:\Users\Josip\Desktop\Evolutio\Zadatak1\Zadatak1\bin\Debug\net5.0\Zadatak1.runtimeconfig.json
+C:\Users\Josip\Desktop\Evolutio\Zadatak1\Zadatak1\bin\Debug\net5.0\Zadatak1.runtimeconfig.dev.json
+C:\Users\Josip\Desktop\Evolutio\Zadatak1\Zadatak1\bin\Debug\net5.0\Zadatak1.dll
+C:\Users\Josip\Desktop\Evolutio\Zadatak1\Zadatak1\bin\Debug\net5.0\ref\Zadatak1.dll
+C:\Users\Josip\Desktop\Evolutio\Zadatak1\Zadatak1\bin\Debug\net5.0\Zadatak1.pdb
+C:\Users\Josip\Desktop\Evolutio\Zadatak1\Zadatak1\obj\Debug\net5.0\Zadatak1.csproj.AssemblyReference.cache
+C:\Users\Josip\Desktop\Evolutio\Zadatak1\Zadatak1\obj\Debug\net5.0\Zadatak1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josip\Desktop\Evolutio\Zadatak1\Zadatak1\obj\Debug\net5.0\Zadatak1.AssemblyInfoInputs.cache
+C:\Users\Josip\Desktop\Evolutio\Zadatak1\Zadatak1\obj\Debug\net5.0\Zadatak1.AssemblyInfo.cs
+C:\Users\Josip\Desktop\Evolutio\Zadatak1\Zadatak1\obj\Debug\net5.0\Zadatak1.csproj.CoreCompileInputs.cache
+C:\Users\Josip\Desktop\Evolutio\Zadatak1\Zadatak1\obj\Debug\net5.0\Zadatak1.dll
+C:\Users\Josip\Desktop\Evolutio\Zadatak1\Zadatak1\obj\Debug\net5.0\ref\Zadatak1.dll
+C:\Users\Josip\Desktop\Evolutio\Zadatak1\Zadatak1\obj\Debug\net5.0\Zadatak1.pdb
+C:\Users\Josip\Desktop\Evolutio\Zadatak1\Zadatak1\obj\Debug\net5.0\Zadatak1.genruntimeconfig.cache
